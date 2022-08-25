@@ -20,8 +20,7 @@ require (
 	github.com/spf13/viper v1.8.1
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/stretchr/testify v1.7.0
-	github.com/valyala/fasthttp v1.30.0
+	github.com/valyala/fasthttp v1.34.0
 	go.uber.org/zap v1.19.1
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 )
